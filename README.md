@@ -1,4 +1,4 @@
-## Hola, I'm Apoorv Nath Mishra 👋
+## Hola, I'm Apoorv Nath Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=APOORVMISHRA21&label=Profile Views&color=blue&style=plastic" alt="iampawan" /> </p> --> 
 
 <a href="https://www.linkedin.com/in/apoorv-mishra-2101/">
@@ -37,7 +37,7 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
 - ⚡ Fun fact: Music is my coffee.
 <br>
 
-## Regularly playing with...
+## 🖥️ Regularly Playing with... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
@@ -80,6 +80,14 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
 <a href="https://github.com/APOORVMISHRA21">
   <img align="center" size="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVMISHRA21&theme=dark&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 </a>
+
+<br><br>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 <!--
 **APOORVMISHRA21/APOORVMISHRA21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
