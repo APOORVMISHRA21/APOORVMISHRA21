@@ -60,6 +60,11 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=Android-Studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=Canva)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
+
 
 <br>
 
