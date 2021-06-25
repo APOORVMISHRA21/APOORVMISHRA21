@@ -21,15 +21,19 @@
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCZwwvbojug3Twq-agMmslNg/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="My Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=APOORVMISHRA21&label=Profile Views&color=blue&theme=dark&style=flat-square" alt="myViews" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=APOORVMISHRA21&label=Profile Views&color=blue&theme=dark&style=flat-square" alt="myViews" />
 
 ![GitHub APOORVMISHRA21](https://img.shields.io/github/followers/APOORVMISHRA21?label=Followers&style=flat-square)
-<br><br>
+ </p>
+<br>
+
+
+## 😎 Know me 
 
 - 🏦 I’m a CSE Undergraduate from [IIIT Kalyani](http://iiitkalyani.ac.in/).
 - 🌱 I’m currently learning more about Android Development.
@@ -41,7 +45,7 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
 - ⚡ Fun fact: Music is my coffee.
 <br>
 
-## 🖥️ Regularly Playing with... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 🖥️ Messing around with... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
