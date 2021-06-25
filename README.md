@@ -1,4 +1,8 @@
-## Hola, I'm Apoorv Nath Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <div align="center">
+  
+# Hola, I'm Apoorv Nath Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
+  </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=APOORVMISHRA21&label=Profile Views&color=blue&style=plastic" alt="iampawan" /> </p> --> 
 
 <a href="https://www.linkedin.com/in/apoorv-mishra-2101/">
