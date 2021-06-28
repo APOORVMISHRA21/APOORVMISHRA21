@@ -91,7 +91,7 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
   </a>
 &nbsp &nbsp &nbsp
 <a href="https://github.com/APOORVMISHRA21">
-  <img align="center" size="48px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVMISHRA21&theme=dark&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
+  <img align="center" size="48px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVMISHRA21&theme=dark&layout=compact&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 </a>
 
 <br><br>
