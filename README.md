@@ -87,11 +87,11 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/APOORVMISHRA21">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=APOORVMISHRA21&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=APOORVMISHRA21&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
   </a>
 &nbsp &nbsp &nbsp
 <a href="https://github.com/APOORVMISHRA21">
-  <img align="center" size="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVMISHRA21&theme=dark&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
+  <img align="center" size="48px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORVMISHRA21&theme=dark&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 </a>
 
 <br><br>
