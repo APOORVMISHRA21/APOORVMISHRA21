@@ -74,6 +74,9 @@ or <a href="mailto:armaanmishraapoorv@gmail.com"><b>email</b></a> me
 
 ## 📂My Projects
 
+[![Find Lost](https://github-readme-stats.vercel.app/api/pin/?username=APOORVMISHRA21&repo=findTogether&show_owner=true&theme=dark)](https://github.com/APOORVMISHRA21/findTogether)
+
+
 [![Talk Cipher](https://github-readme-stats.vercel.app/api/pin/?username=APOORVMISHRA21&repo=talkCipher&show_owner=true&theme=dark)](https://github.com/APOORVMISHRA21/talkCipher)
 
 
